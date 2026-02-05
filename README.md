@@ -1,4 +1,4 @@
-# 🚧 Road Vanguard - Système d'Expertise Routière
+# 🚧 RoadDetectorEnsao - Système d'Expertise Routière
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg?style=flat&logo=c%2B%2B)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg?style=flat&logo=opencv)
@@ -30,5 +30,4 @@ Contrairement aux approches classiques, ce projet intègre un pipeline de vision
 ### Pipeline de Traitement d'Image
 Le cœur du logiciel repose sur une chaîne de traitement stricte :
 
-```mermaid
 
