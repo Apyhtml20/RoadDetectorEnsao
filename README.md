@@ -35,9 +35,4 @@ Contrairement aux approches classiques, ce projet intègre un pipeline de vision
 Le cœur du logiciel repose sur une chaîne de traitement stricte :
 
 ```mermaid
-flowchart TD
-    Input[Image Source] --> Pre[Lissage Bilatéral & CLAHE]
-    Pre --> Seg[Seuil Adaptatif & Morphologie]
-    Seg --> Zhang[💀 Squelettisation Zhang-Suen]
-    Zhang --> Extract[Extraction de Données]
-    Extract --> Expert[Analyse & Décision]
+
