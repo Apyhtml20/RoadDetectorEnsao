@@ -9,10 +9,6 @@
 
 ---
 
-## 📸 Aperçu
-
-![Dashboard](assets/screenshot_dashboard.jpg)
-*(Ajoutez ici une capture d'écran de votre tableau de bord V9)*
 
 ## 📝 À propos
 
